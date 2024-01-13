@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hello I'm <a href="https://aristi.dev">Agustín Lucentini</a> 👋</h1>
+<h1 align="center">Hello I'm <a href="https://lucen.is-a.dev/">Agustín Lucentini</a> 👋</h1>
 </div>
 <img src="https://res.cloudinary.com/dcbmvyyes/image/upload/v1705167717/lucendevBanner_z4lhqn.png">
 
