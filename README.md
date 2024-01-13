@@ -9,10 +9,10 @@ Passionate web developer dedicated to clean design, meticulous code, and a stron
 
 ### 💻 Tech Stack
 
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express
-- Database: MongoDB, MySQL
-- Tools: Git, VS Code, Webpack
+- Frontend: HTML, CSS, JavaScript, React, Tailwind
+- Backend: Node.js: Express, Java
+- Database: MySQL
+- Tools: Git, VS Code, Figma, Postman
 
 ### 🚀 Skills
 
