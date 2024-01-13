@@ -31,7 +31,7 @@ Check out my [portfolio website](https://lucen.is-a.dev/) for a closer look at m
 
 ### 📬 Let's Connect
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/agustín-lucentini-055832276/)
+- LinkedIn: [Agustín Lucentini](https://www.linkedin.com/in/agustín-lucentini-055832276/)
 
 ### 🚀 Let's Collaborate!
 
