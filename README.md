@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hello I'm <a href="https://aristi.dev">Agustín Lucentini</a> 👋</h1>
+<h1 align="center">Hello I'm <a href="https://lucen.is-a.dev/">Agustín Lucentini</a> 👋</h1>
 </div>
-<img src="https://res.cloudinary.com/dcbmvyyes/image/upload/v1705167341/lucendevBanner_uf6cgx.png">
+<img src="https://res.cloudinary.com/dcbmvyyes/image/upload/v1705167717/lucendevBanner_z4lhqn.png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
