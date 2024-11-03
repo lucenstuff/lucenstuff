@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello I'm <a href="https://lucen.is-a.dev/">Agustín Lucentini</a> 👋</h1>
 </div>
-<img src="https://res.cloudinary.com/dcbmvyyes/image/upload/v1705167717/lucendevBanner_z4lhqn.png">
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQHzIavMJ9Sbxg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730643690838?e=1736380800&v=beta&t=_eplQUJJVhPFKHOvLc2xEuV7QVTfW0xHo99GFbZRpKY">
 
 ### 👨‍💻 About Me
 
