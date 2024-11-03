@@ -5,27 +5,34 @@
 
 ### 👨‍💻 About Me
 
-Passionate web developer dedicated to clean design, meticulous code, and a strong work ethic. 🚀 Fast learner and a committed team player, I bring adaptability and efficiency to every project.
+I am a full-stack developer specializing in Ruby on Rails and Java Spring Boot, committed to building high-performance applications while fostering collaboration and continuously improving my skills to deliver innovative solutions.
 
 ### 💻 Tech Stack
 
-- Frontend: HTML, CSS, JavaScript, React, Tailwind
-- Backend: Node.js: Express, Java
-- Database: MySQL
-- Tools: Git, VS Code, Figma, Postman
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
+- **Backend:** Java (Spring Boot), Ruby (Ruby on Rails), Node.js (Express for building RESTful APIs)
+- **Database:** SQL (MySQL, Postgres)
+- **Version Control:** Git (GitHub)
+- **Other Tools:** Penpot, Postman
 
 ### 🚀 Skills
 
-- Clean & Functional Web Solutions
-- High-Quality Results within Tight Deadlines
-- Proactive & Enthusiastic Attitude
-- Technical Excellence & Adaptability
+- **Collaboration and Teamwork:** Effectively work with cross-functional teams to achieve project goals.
+- **Effective Communication:** Clearly convey ideas and technical concepts to both technical and non-technical stakeholders.
+- **Problem-Solving Skills:** Analyze challenges and develop efficient solutions.
+- **Adaptability and Flexibility:** Adjust to changing project requirements and environments.
+- **Time Management:** Prioritize tasks to meet deadlines efficiently.
+- **Lateral Thinking:** Approach problems creatively and from different perspectives.
+- **Continuous Learning:** Stay updated on industry trends and technologies.
+- **Creativity and Innovation:** Develop unique solutions and improve existing processes.
 
 ### 🌐 Portfolio
 
-Check out my [portfolio website](https://lucen.is-a.dev/) for a closer look at my projects and achievements.
+Check out my [portfolio website](https://lucen.is-a.dev/) for a closer look at my projects, including an e-commerce platform and a task management app.
 
 ### 📈 GitHub Stats
+
+Here are some stats showcasing my contributions on GitHub:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucenstuff&show_icons=true&hide=issues&theme=radical)
 
@@ -35,6 +42,4 @@ Check out my [portfolio website](https://lucen.is-a.dev/) for a closer look at m
 
 ### 🚀 Let's Collaborate!
 
-Eager to bring my skills and passion to your team. Let's build something amazing together! 🌟
-
-
+I’m particularly interested in projects focused on web development, user experience, and innovative technology solutions. Let’s build something amazing together! 🌟
