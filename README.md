@@ -10,7 +10,7 @@ I am a full-stack developer specializing in Ruby on Rails and Java Spring Boot, 
 ### 💻 Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
-- **Backend:** Java (Spring Boot), Ruby (Ruby on Rails), Node.js (Express for building RESTful APIs)
+- **Backend:** Java (Spring Boot), Ruby (Ruby on Rails), Node.js (Express.js)
 - **Database:** SQL (MySQL, Postgres)
 - **Version Control:** Git (GitHub)
 - **Other Tools:** Penpot, Postman
