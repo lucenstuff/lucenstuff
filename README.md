@@ -6,7 +6,7 @@
 ### About Me
 I’m a software developer with experience in Ruby on Rails and Java Spring Boot. I focus on building reliable, scalable web applications and enjoy working on both front-end and back-end development. I value clean, efficient code and enjoy collaborating with teams to deliver functional and performant solutions.
  
-### Tech Stacm
+### Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
 - **Backend:** Java (Spring Boot), Ruby (Ruby on Rails), Node.js (Express.js)
 - **Database:** SQL (MySQL, PostgreSQL)
