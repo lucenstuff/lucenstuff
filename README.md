@@ -3,11 +3,6 @@
 </div>
 <img src="https://res.cloudinary.com/dhxusyus2/image/upload/v1730670078/Group_176_1_mlmsju.png">
 
-<div align="center">
-<h1 align="center">Hello I'm <a href="https://lucen.is-a.dev/">Agustín Lucentini</a> 👋</h1>
-</div>
-<img src="https://res.cloudinary.com/dhxusyus2/image/upload/v1730670078/Group_176_1_mlmsju.png">
-
 ### About Me
 I’m a software developer with experience in Ruby on Rails and Java Spring Boot. I focus on building reliable, scalable web applications and enjoy working on both front-end and back-end development. I value clean, efficient code and enjoy collaborating with teams to deliver functional and performant solutions.
 
