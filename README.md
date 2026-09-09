@@ -1,23 +1,36 @@
-<div align="center">
-<h1 align="center">Hello I'm <a href="https://lucen.is-a.dev/">Agustín Lucentini</a> 👋</h1>
-</div>
-<img src="https://res.cloudinary.com/dhxusyus2/image/upload/v1730670078/Group_176_1_mlmsju.png">
+```
+$ whoami
+agustin-lucentini · software engineer
 
-### About Me
-I’m a software developer with experience in Ruby on Rails and Java Spring Boot. I focus on building reliable, scalable web applications and enjoy working on both front-end and back-end development. I value clean, efficient code and enjoy collaborating with teams to deliver functional and performant solutions.
- 
-### Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
-- **Backend:** Java (Spring Boot), Ruby (Ruby on Rails), Node.js (Express.js)
-- **Database:** SQL (MySQL, PostgreSQL)
-- **Version Control:** Git (GitHub)
+$ cat about.txt
+software engineer focused on fintech + e-commerce
+ship code · fix bugs · automate ops
+open to roles in e-commerce, fintech, or b2b saas
 
-### Key Skills
-- **Collaboration & Teamwork:** Thriving in team environments, leveraging communication skills to align with stakeholders and team members.
-- **Problem-Solving:** Skilled at identifying challenges and implementing effective, scalable solutions.
-- **Adaptability:** Comfortable working across various technologies and quickly adjusting to new development paradigms.
-- **Time Management & Prioritization:** Delivering projects on time without compromising quality.
-- **Continuous Learning & Innovation:** Always exploring emerging trends and technologies to stay ahead of the curve.
+$ skills --list
+programming_languages  ruby · java · javascript · typescript · python · bash
+back_end               ruby_on_rails · graphql · redis
+front_end              react · html · css · tailwind_css
+databases              postgresql · mysql
+cloud_tools            aws (ec2 · lambda · cloudwatch · ses) · git
+ai_workflow            spec-driven development (openspec) · ai-assisted coding · critical review
 
-### Portfolio & Projects
-Explore my [portfolio](https://lucen.is-a.dev/) for a comprehensive look at my work, including an e-commerce platform and a task management app.
+$ experience
+quiltt     software engineer · sinaptia · 2025 → present
+vaypol     backend engineer · 2024 → 2025
+freelance  full stack developer · 2022 → 2023
+
+$ projects
+qrta           qrta.com.ar
+luna boutique  luna-boutique-frontend.vercel.app
+open-chords    github.com/lucenstuff/open-chords
+suika game     github.com/lucenstuff/SuikaGameJavaFXGL
+
+$ blog
+lucen.is-a.dev/blog
+
+$ contact
+email     agustinjlucentini@gmail.com
+linkedin  linkedin.com/in/agustinlucentini
+github    github.com/lucenstuff
+```
