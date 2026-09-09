@@ -9,7 +9,7 @@ open to roles in e-commerce, fintech, or b2b saas
 
 $ skills --list
 programming_languages  ruby · java · javascript · typescript · python · bash
-back_end               ruby_on_rails · graphql · redis
+back_end               ruby_on_rails · spring_boot · graphql · redis
 front_end              react · html · css · tailwind_css
 databases              postgresql · mysql
 cloud_tools            aws (ec2 · lambda · cloudwatch · ses) · git
